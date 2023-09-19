@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanilSobko
+- 👋 Hi, I’m Danil Sobko
 - 👀 I’m interested in gaining theoretical knowledge and practical skills in the field of programming in order to get a job with a decent salary
 - 🌱 I’m currently learning at the University of Telecommunication Technologies
 - 💞️ I’m looking to collaborate on want to work with leading software development companies
